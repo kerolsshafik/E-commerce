@@ -1,6 +1,6 @@
 # E-commerce-
 E-commerce  application with laravel
-
+download and made unrar
 Installation:
 git clone (https://github.com/kerolsshafik/E-commerce)
 cd E-commerce
