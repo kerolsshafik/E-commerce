@@ -1,6 +1,13 @@
 # E-commerce-
 E-commerce  application with laravel
 
+Installation:
+git clone (https://github.com/kerolsshafik/E-commerce)
+cd E-commerce
+npm install
+php artisan serve --port=8000
+use postman
+
 1. CRUD Operations for Products
 Implemented basic Create, Read, Update, and Delete operations for product management.
 2. Cart Functionality
